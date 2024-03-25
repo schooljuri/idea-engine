@@ -29,3 +29,4 @@ struct TrieNode
             if (curr->map.find(c) == curr->map.end()) {
                 curr->map[c] = new TrieNode();
             }
+//good
